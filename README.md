@@ -2,7 +2,7 @@
 
 I’m currently working.... :computer::computer::computer:
 
-.... speaking with **Python, Go, Javascript, Dart, Java** and many others, but mostly its. :information_desk_person:
+.... and speaking with **Python, Go, Javascript, Dart, Java**, ++ many others, but mostly its. :information_desk_person:
 
 #### You're asking about data?
 
@@ -17,6 +17,10 @@ Well, HTML and CSS is basic need. :kiss: Has learn it years-years ago. But today
 #### I said front-end, then I said design.
 
 My daily some'em to *refresh my creative brain*: **Figma - Adove XD**. But **Figma** is most. :love_letter::love_letter::love_letter: litterally daily routine. :couplekiss:
+
+#### Last, mobile Apps, huh?
+
+I'm **android-native-java** guy :hatching_chick:, but but but :zap::zap::zap: **flutter change my life**. Now, yes, abviously, ofcourse, my heart choose flutter.
 
 :email:
 Contact me? :email: maztohir@gmail.com
